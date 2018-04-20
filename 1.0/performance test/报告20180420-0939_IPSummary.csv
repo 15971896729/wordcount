@@ -1,0 +1,7 @@
+函数名,排除性样本,排除性样本 %,指令地址,源行开始,源字符开始,源行结束,源字符结束,
+"_GetProcessHeap@0",1,16.67,0x75F34420,0,0,0,0,
+"_RtlCSparseBitmapStart@8",1,16.67,0x779869FD,0,0,0,0,
+"LdrImageDirectoryEntryToLoadConfig",1,16.67,0x7FF8E068A266,0,0,0,0,
+"NtCreateSection",1,16.67,0x7FF8E0710C04,0,0,0,0,
+"NtDeviceIoControlFile",1,16.67,0x7FF8E07103A4,0,0,0,0,
+"NtTraceControl",1,16.67,0x7FF8E07139D4,0,0,0,0,

@@ -1,0 +1,8 @@
+函数名,排除性样本,排除性样本 %,指令地址,源行开始,源字符开始,源行结束,源字符结束,
+"NtCreateSection",3,27.27,0x7FF8E0710C04,0,0,0,0,
+"NtQueryAttributesFile",3,27.27,0x7FF8E0710A64,0,0,0,0,
+"_LdrpSnapModule@4",1,9.09,0x77949B15,0,0,0,0,
+"common_tcscpy_s<char>",1,9.09,0x6193CE57,74,0,74,0,
+"NtAllocateVirtualMemory",1,9.09,0x7FF8E07105C4,0,0,0,0,
+"NtOpenKey",1,9.09,0x7FF8E0710504,0,0,0,0,
+"RtlUserThreadStart",1,9.09,0x7FF8E06DF040,0,0,0,0,
