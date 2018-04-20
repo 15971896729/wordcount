@@ -14,8 +14,15 @@ word count.exe -m test.txt //统计代码行、空行、注释行
 
 
 b.文件列表及其相关说明
-本项目文件包含源文件、程序文件（在debug文件夹）、运行结果（在result文件夹）、性能测试结果截图及报告（在performance test文件夹）
+本项目文件包含源文件、程序文件（见debug文件夹）、运行结果（见result文件夹）、性能测试结果截图及报告（见performance test文件夹）
 
 
 c.例程运行及其相关结果
 详见result文件夹
+结果附图：
+![image](../1.0/result/wc-c.bmp);
+![image](../1.0/result/wc-l.bmp);
+![image](../1.0/result/wc-w.bmp);
+![image](../1.0/result/wc-m.bmp);
+
+性能测试及报告：见performance test文件夹
