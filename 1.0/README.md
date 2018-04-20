@@ -18,11 +18,7 @@ b.文件列表及其相关说明
 
 
 c.例程运行及其相关结果
-详见result文件夹
 结果附图：
-![image](../1.0/result/wc-c.bmp);
-![image](../1.0/result/wc-l.bmp);
-![image](../1.0/result/wc-w.bmp);
-![image](../1.0/result/wc-m.bmp);
-
-性能测试及报告：见performance test文件夹
+		详见result文件夹
+性能测试及报告：
+		见performance test文件夹
